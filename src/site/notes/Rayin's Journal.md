@@ -8,6 +8,8 @@
 My name is Rayin Cnaimhin, I am a hunter by trade with some small ability to foresee events. A recent vision warning of some danger has sent me on a quest to visit the City of Ashtar atop the plateau of Andorra.  Let this journal serve as a chronicle my adventures in and around The Planes while I investigate this vision and try to find its meaning.
 
 ### Journal Entries
+[[Hells Bells/Sessions/1 - Leaving Home, Meeting People\|1 - Leaving Home, Meeting People]]
+
 
 ### Map of the Planes
 ![Venture_Maidens_World_Map_-_Resized.png](/img/user/Hells%20Bells/Map/Venture_Maidens_World_Map_-_Resized.png)
