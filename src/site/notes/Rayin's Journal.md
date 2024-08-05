@@ -5,10 +5,10 @@
 ---
 
 ### Hello Reader, 
-My name is Rayin Cnaimhin, I am a hunter by trade with some small ability to foresee events. A recent vision warning of some danger has sent me on a quest to visit the City of Ashtar atop the plateau of Andorra.  Let this journal serve as a chronicle my adventures in and around The Planes while I investigate this vision and try to find its meaning.
+My name is Rayin [Cnaimhin](https://surnames.behindthename.com/name/o1000cna10imhi10n), I am a hunter by trade with some small ability to foresee events. A recent vision warning of some danger has sent me on a quest to visit the City of [[Reference/Locations/Ashtar\|Ashtar]] atop the plateau of Andorra.  Let this journal serve as a chronicle my adventures in and around The Planes while I investigate this vision and try to find its meaning.
 
 ### Journal Entries
-[[Hells Bells/Sessions/1 - Leaving Home, Meeting People\|1 - Leaving Home, Meeting People]]
+[[Hells Bells/Sessions/0 - Leaving Home, Meeting People\|0 - Leaving Home, Meeting People]]
 
 
 ### Map of the Planes
